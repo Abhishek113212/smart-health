@@ -1,0 +1,5 @@
+{
+  "name": "Smart Hospital Appointment & Queue Management System",
+  "description": "A modern, responsive platform for booking appointments, tracking real-time queues, and managing centralized medical records to reduce patient waiting times.",
+  "requestFramePermissions": ["geolocation"]
+}
